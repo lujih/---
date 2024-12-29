@@ -114,9 +114,11 @@
 
 ## 数据库设计
 * 用户表（users）
-* ![IMG_20241229_153732.jpg](https://cftc.cszxorx.us.kg/api/cfile/AgACAgUAAyEGAASOA5PaAAIEImdw_K5dlBO9FJsLvtkiOVbYt6oxAAKAxTEbA0aJV4b4ZnDU8hxpAQADAgADeQADNgQ)
+  ![IMG_20241229_153732.jpg](https://cftc.cszxorx.us.kg/api/cfile/AgACAgUAAyEGAASOA5PaAAIEImdw_K5dlBO9FJsLvtkiOVbYt6oxAAKAxTEbA0aJV4b4ZnDU8hxpAQADAgADeQADNgQ)
 * 积分记录表（points_log）
+  ![IMG_20241229_153804.jpg](https://cftc.cszxorx.us.kg/api/cfile/AgACAgUAAyEGAASOA5PaAAIEI2dw_Q4kXdRaYk52kOoex7gKFC2HAAKCxTEbA0aJV-PEN4S0JgPLAQADAgADeQADNgQ)
 * 礼品表（gifts）
+  ![IMG_20241229_153826.jpg](https://cftc.cszxorx.us.kg/api/cfile/AgACAgUAAyEGAASOA5PaAAIEJGdw_TiYQaCeA4uIvzyu7cjNUVo0AAKDxTEbA0aJV1qaRKWEp9HEAQADAgADeQADNgQ)
 
 ## 验收标准
 1. 用户功能全部实现，无重大 Bug
