@@ -114,6 +114,7 @@
 
 ## 数据库设计
 * 用户表（users）
+* ![IMG_20241229_153732.jpg](https://cftc.cszxorx.us.kg/api/cfile/AgACAgUAAyEGAASOA5PaAAIEImdw_K5dlBO9FJsLvtkiOVbYt6oxAAKAxTEbA0aJV4b4ZnDU8hxpAQADAgADeQADNgQ)
 * 积分记录表（points_log）
 * 礼品表（gifts）
 
